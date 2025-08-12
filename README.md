@@ -86,7 +86,7 @@ Favor de hacer uso responsable del servicio/herramienta y verificar que los dato
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles. ©️
 
-# Use the archieve *Matrices (Arrays) V5 Final*
+# Use the archive *Matrices (Arrays) V5 Final*
 
 # EN
 
